@@ -171,3 +171,62 @@ Lecture:14:HTML 5 doctype declaration:
 ----------------------------------------------------------------------------------------------------------------------------------
 Lecture:15: How to create Plain text web page in HTML5:
 --------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------------------------------
+Lecture:16: how to insert new line or line break using br tag:
+-------------------------------------------------------------
+1> <br> or <br/> both are similar 
+The <br> tag in the HTML code insert a line break in the text
+
+2> if i need two empty line then use <br><br> twice and so on 
+
+----------------------------------------------------------------------------------------------------------
+Lecture17: how to write headings using h tag in HTML
+----------------------------------------------------
+Heading defines the structure and formate of a document. There are six heading tag:-
+<h1>...</h1>   --> largest heading tag
+<h2>...</h2>
+<h3>...</h3>
+<h4>...</h4>
+<h5>...</h5>
+<h6>...</h6>   --> smallest heading tag
+Any text inside these tags is displayed differntly depending on the heading number.
+
+2> heading get their own line on the web pages by starting from a new line.
+----------------------------------------------------------------------------------------------------------
+Lecture:18: Pragragh tag:
+------------------------
+The <p> tag is used to create new pargraph on web page. It has a closing tag</p> which is optional beacuse a paragraph automatically ends when we start another paragraph.
+
+<p>...</p>
+
+Note: - 
+--------
+--> Number of line in paragraph depends on the size of web browser window.
+--> if we resize the browser window, the number of lines in this paragraph will change.
+
+--------------------------------------------------------------------------------------------------------
+Lecture:19: subscript and Superscript using sub and sup Tag in HTML
+-------------------------------------------------------------------
+> Subscript:
+------------
+> A subscropt is a text that appears smaller than a regular text.
+> The <sub>....</sub> tag is used to create a subscript on a web page.
+
+> SuperScript:
+--------------
+A Superscript is a text taht apprears smaller size above the regular text.
+The <sup>....</sup> tag is used to create a Superscript on a web page.
+
+-----------------------------------------------------------------------------------------------------------
+Lecture:20: Horizontal Rule or Horizontal line using hr tag in HTML:
+----------------------------------------------------------------------
+> The <hr> tag is used to create a horizontal rule on the web page.
+> it is an empty tag.
+> The web browser starts a horizontal rule from a new line, and any text that follow this tag is also display in a new line.
+
+exmaple: horizontal_tag.html
+--------------------------------------------------------------------------------------------------------
+Lecture:21: Align--> it is an attribute.
+----------------------------------------
