@@ -230,3 +230,32 @@ exmaple: horizontal_tag.html
 --------------------------------------------------------------------------------------------------------
 Lecture:21: Align--> it is an attribute.
 ----------------------------------------
+> Center--> Aligns the whole text to the center of the web page align="center"
+> Left--> Aligns the whole text to the left side of the web page align="left"
+> Right--> Aligns the whole text to the right side of the web page align="right"
+> Justify--> Justifies the whole text and also indentes the first line align ="justify"
+
+> Align attribute used with text kinds of tag like 
+eg.
+* With Heading
+<h1 align="right">...</h1>
+
+*With Paragraph
+<p align="right">...</p>
+
+* with horizontal Rule:
+<hr align="right">
+
+sheet example: align_attributes.html
+--------------------------------------------------------------------------------------------------------
+Lecture: 22: Bold tag using html:
+---------------------------------
+The <b>...</b> tag is used to render the text in bold style.
+
+example_Sheet: bold.html
+-------------------------------------------------------------------------------------------------------
+Lecture:23: italic tag:
+----------------------
+the <i>...</i> tag is used to render the text into italic from.
+
+example_sheet: italic_tag.html
