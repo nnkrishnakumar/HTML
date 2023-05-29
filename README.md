@@ -259,3 +259,29 @@ Lecture:23: italic tag:
 the <i>...</i> tag is used to render the text into italic from.
 
 example_sheet: italic_tag.html
+
+--------------------------------------------------------------------------------------------------------
+Lecture:24: Strong and emphasis tag:
+------------------------------------
+The <strong>...</strong> tag indicates that its content has strong importance.
+
+Emphasis:
+------------
+The <em>...</em> indicates emphasis that subtly changes the meaning of a sentence.(it convert content into italic styling)
+
+exmaple: strong_emphasis_tag.html
+------------------------------------------------------------------------------------------------------
+Lecture:25:Blockquote and q Tag :
+-----------------------------------
+The <blockquote>...</blockquote> is used for long and multiline quotations.
+> blockquote simply indent the margin means no need to set the margin.
+
+q tag:
+------
+The <q>...</q> tags elements is used for shorter quotes that sit within a paragraph.
+> q tag provides double quotes symbole in our html page.(because there is differnce between double qoute symbol)
+
+example: blockquote_p_tag.html
+---------------------------------------------------------------------------------------------------------
+Lecture:26: Abbriviation and Acronyms tag:
+------------------------------------------
